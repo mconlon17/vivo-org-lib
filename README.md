@@ -7,4 +7,4 @@ support for Simple VIVO
 
 # See 
 
-* [vivo-org-ingest](http://githib.com/mconlon17/vivo-org-ingest)
+* [vivo-org-ingest](http://github.com/mconlon17/vivo-org-ingest)
